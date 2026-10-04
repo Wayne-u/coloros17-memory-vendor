@@ -1,0 +1,4 @@
+interface:
+  display_name: "ColorOS 17 内存与闪存厂商查询"
+  short_description: "适用于 ColorOS 17，通过 ADB 与手机管家日志读取 RAM、UFS 厂商及料号"
+  default_prompt: "使用 $coloros17-memory-vendor 查询已连接 ColorOS 17 手机的 RAM 和 UFS 厂商，保留可复核的硬件字段。"
